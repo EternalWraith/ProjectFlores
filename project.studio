@@ -1,0 +1,12 @@
+{
+  "title": "ProjectFlores",
+  "studioVersion": "2.1.0",
+  "iconPath": "project_icon.png",
+  "isTiledMode": true,
+  "languagesTranslation": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ]
+}

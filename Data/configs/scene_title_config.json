@@ -1,0 +1,11 @@
+{
+  "klass": "Configs::Project::SceneTitle",
+  "introMovieMapId": 0,
+  "bgmName": "audio/bgm/rosa_title.ogg",
+  "bgmDuration": 4418000,
+  "isLanguageSelectionEnabled": true,
+  "additionalSplashes": [
+    "project_icon"
+  ],
+  "controlWaitTime": 0.5
+}

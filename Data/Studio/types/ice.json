@@ -1,0 +1,49 @@
+{
+  "klass": "Type",
+  "id": 6,
+  "dbSymbol": "ice",
+  "textId": 14,
+  "damageTo": [
+    {
+      "defensiveType": "fire",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "water",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "grass",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ice",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 2
+    },
+    {
+      "defensiveType": "flying",
+      "factor": 2
+    },
+    {
+      "defensiveType": "dragon",
+      "factor": 2
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "rubber",
+      "factor": 2
+    },
+    {
+      "defensiveType": "sound",
+      "factor": 0.5
+    }
+  ],
+  "color": "#74cec0"
+}

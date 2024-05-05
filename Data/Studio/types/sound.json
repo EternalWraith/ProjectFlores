@@ -1,0 +1,33 @@
+{
+  "klass": "Type",
+  "id": 19,
+  "dbSymbol": "sound",
+  "color": "#1e968e",
+  "textId": 18,
+  "damageTo": [
+    {
+      "defensiveType": "water",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ice",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "dark",
+      "factor": 2
+    },
+    {
+      "defensiveType": "rubber",
+      "factor": 0.5
+    }
+  ]
+}

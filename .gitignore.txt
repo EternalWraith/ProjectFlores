@@ -1,0 +1,17 @@
+*.log
+*.html
+Saves/*
+*.7z
+.gameopts
+*.gameopts
+*.log
+project.studio
+psdk.bat
+Error.log
+Data/PSDK
+!Data/PSDK/Maplinks
+!Data/PSDK/SystemTags
+Data/Studio/mtimes.dat
+scripts/psdk_scripts
+gallery*
+pokemonsdk/

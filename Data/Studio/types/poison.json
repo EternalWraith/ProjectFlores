@@ -1,0 +1,45 @@
+{
+  "klass": "Type",
+  "id": 8,
+  "dbSymbol": "poison",
+  "textId": 3,
+  "damageTo": [
+    {
+      "defensiveType": "grass",
+      "factor": 2
+    },
+    {
+      "defensiveType": "poison",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "rock",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0
+    },
+    {
+      "defensiveType": "fairy",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ghost",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "rubber",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "sound",
+      "factor": 2
+    }
+  ],
+  "color": "#ab6ac8"
+}
