@@ -1,0 +1,244 @@
+{
+    "klass": "Specie",
+    "id": 895,
+    "dbSymbol": "regidrago",
+    "forms": [
+        {
+            "form": 0,
+            "height": 2.1,
+            "weight": 200.0,
+            "type1": "dragon",
+            "type2": "__undef__",
+            "baseHp": 200,
+            "baseAtk": 100,
+            "baseDfe": 50,
+            "baseSpd": 80,
+            "baseAts": 100,
+            "baseDfs": 50,
+            "evHp": 3,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 35,
+            "catchRate": 3,
+            "femaleRate": -1,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 15360,
+            "babyDbSymbol": "regidrago",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "dragons_maw",
+                "dragons_maw",
+                "dragons_maw"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "twister",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "vise_grip",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "bite",
+                    "level": 6
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "ancient_power",
+                    "level": 12
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "dragon_breath",
+                    "level": 18
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "crunch",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "dragon_claw",
+                    "level": 36
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "hammer_arm",
+                    "level": 42
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "dragon_dance",
+                    "level": 48
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "thrash",
+                    "level": 54
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "focus_energy",
+                    "level": 60
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "dragon_energy",
+                    "level": 66
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "hyper_beam",
+                    "level": 72
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "explosion",
+                    "level": 78
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "take_down"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fire_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "ice_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "swift"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "endure"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "body_slam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sleep_talk"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "reflect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "light_screen"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dragon_claw"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dragon_dance"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "substitute"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "crunch"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dragon_pulse"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "earth_power"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "reversal"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "earthquake"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_impact"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "outrage"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "draco_meteor"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "tera_blast"
+                }
+            ],
+            "resources": {
+                "icon": "0895",
+                "iconShiny": "",
+                "front": "0895",
+                "frontShiny": "0895",
+                "back": "0895",
+                "backShiny": "0895",
+                "footprint": "0895",
+                "character": "0895_00",
+                "characterShiny": "0895s_00",
+                "cry": "0895cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

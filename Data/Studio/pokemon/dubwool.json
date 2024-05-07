@@ -1,0 +1,202 @@
+{
+    "klass": "Specie",
+    "id": 832,
+    "dbSymbol": "dubwool",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.3,
+            "weight": 43.0,
+            "type1": "normal",
+            "type2": "__undef__",
+            "baseHp": 72,
+            "baseAtk": 80,
+            "baseDfe": 100,
+            "baseSpd": 88,
+            "baseAts": 60,
+            "baseDfs": 90,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 2,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 172,
+            "baseLoyalty": 50,
+            "catchRate": 127,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "wooloo",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "fluffy",
+                "steadfast",
+                "bulletproof"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "copycat",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "defense_curl",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "growl",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tackle",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "guard_split",
+                    "level": 12
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "double_kick",
+                    "level": 16
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "headbutt",
+                    "level": 21
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "take_down",
+                    "level": 27
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "guard_swap",
+                    "level": 32
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "reversal",
+                    "level": 38
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "cotton_guard",
+                    "level": 44
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "double_edge",
+                    "level": 50
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "last_resort",
+                    "level": 56
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "counter"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "stomp"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "swagger"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "mega_kick"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_impact"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_wave"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snore"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "attract"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "bounce"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "payback"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "guard_swap"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "round"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "retaliate"
+                }
+            ],
+            "resources": {
+                "icon": "0832",
+                "iconShiny": "",
+                "front": "0832",
+                "frontShiny": "0832",
+                "back": "0832",
+                "backShiny": "0832",
+                "footprint": "0832",
+                "character": "0832_00",
+                "characterShiny": "0832s_00",
+                "cry": "0832cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

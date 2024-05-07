@@ -1,0 +1,230 @@
+{
+    "klass": "Specie",
+    "id": 772,
+    "dbSymbol": "typenull",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.9,
+            "weight": 120.5,
+            "type1": "normal",
+            "type2": "__undef__",
+            "baseHp": 95,
+            "baseAtk": 95,
+            "baseDfe": 95,
+            "baseSpd": 59,
+            "baseAts": 95,
+            "baseDfs": 95,
+            "evHp": 2,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "silvally",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLoyalty",
+                            "value": 160
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 2,
+            "baseExperience": 107,
+            "baseLoyalty": 0,
+            "catchRate": 3,
+            "femaleRate": -1,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 15360,
+            "babyDbSymbol": "typenull",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "battle_armor",
+                "battle_armor",
+                "battle_armor"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "imprison",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tackle",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "aerial_ace",
+                    "level": 5
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "scary_face",
+                    "level": 10
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "double_hit",
+                    "level": 15
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "metal_sound",
+                    "level": 20
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "crush_claw",
+                    "level": 25
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "air_slash",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tri_attack",
+                    "level": 35
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "x_scissor",
+                    "level": 40
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "iron_head",
+                    "level": 45
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "take_down",
+                    "level": 50
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "double_edge",
+                    "level": 55
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_impact"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_wave"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rock_slide"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snore"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "scary_face"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "icy_wind"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sandstorm"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rain_dance"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sunny_day"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hail"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "swift"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "imprison"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "u_turn"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "payback"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "shadow_claw"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "round"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "air_slash"
+                }
+            ],
+            "resources": {
+                "icon": "0772",
+                "iconShiny": "",
+                "front": "0772",
+                "frontShiny": "0772",
+                "back": "0772",
+                "backShiny": "0772",
+                "footprint": "0772",
+                "character": "0772_00",
+                "characterShiny": "0772s_00",
+                "cry": "0772cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

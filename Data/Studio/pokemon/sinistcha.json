@@ -1,0 +1,313 @@
+{
+    "klass": "Specie",
+    "id": 1013,
+    "dbSymbol": "sinistcha",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.2,
+            "weight": 2.2,
+            "type1": "grass",
+            "type2": "ghost",
+            "baseHp": 71,
+            "baseAtk": 60,
+            "baseDfe": 106,
+            "baseSpd": 70,
+            "baseAts": 121,
+            "baseDfs": 80,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 2,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 100,
+            "baseLoyalty": 100,
+            "catchRate": 60,
+            "femaleRate": -1,
+            "breedGroups": [
+                11,
+                10
+            ],
+            "hatchSteps": 1000,
+            "babyDbSymbol": "poltchageist",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "hospitality",
+                "hospitality",
+                "heatproof"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "astonish",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "stun_spore",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "withdraw",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "absorb",
+                    "level": 6
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "life_dew",
+                    "level": 12
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "foul_play",
+                    "level": 18
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "mega_drain",
+                    "level": 24
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "hex",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "rage_powder",
+                    "level": 36
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "strength_sap",
+                    "level": 42
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "shadow_ball",
+                    "level": 48
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "memento",
+                    "level": 54
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "leaf_storm",
+                    "level": 60
+                },
+                {
+                    "klass": "EvolutionLearnableMove",
+                    "move": "matcha_gotcha"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hex"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "magical_leaf"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "night_shade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "endure"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "foul_play"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sleep_talk"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "reflect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "imprison"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "substitute"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "iron_defense"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_drain"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "shadow_ball"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "energy_ball"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "calm_mind"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "grassy_terrain"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "nasty_plot"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "phantom_force"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "leaf_storm"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "trick_room"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "solar_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "tera_blast"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "spite"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "scald"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "uproar"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "poltergeist"
+                }
+            ],
+            "resources": {
+                "icon": "1013",
+                "iconShiny": "",
+                "front": "1013",
+                "frontShiny": "1013",
+                "back": "1013",
+                "backShiny": "1013",
+                "footprint": "1013",
+                "character": "1013_00",
+                "characterShiny": "1013s_00",
+                "cry": "1013cry.ogg",
+                "hasFemale": false
+            }
+        },
+        {
+            "form": 1,
+            "height": 0.0,
+            "weight": 0,
+            "type1": "__undef__",
+            "type2": "__undef__",
+            "baseHp": 100,
+            "baseAtk": 100,
+            "baseDfe": 100,
+            "baseSpd": 100,
+            "baseAts": 100,
+            "baseDfs": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 0,
+            "baseExperience": 100,
+            "baseLoyalty": 100,
+            "catchRate": 100,
+            "femaleRate": 50,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 1000,
+            "babyDbSymbol": "sinistcha",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "intimidate",
+                "intimidate",
+                "intimidate"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [],
+            "resources": {
+                "icon": "1013_01",
+                "iconShiny": "",
+                "front": "1013_01",
+                "frontShiny": "1013_01",
+                "back": "1013_01",
+                "backShiny": "1013_01",
+                "footprint": "1013_01",
+                "character": "1013_01",
+                "characterShiny": "1013s_01",
+                "cry": "1013cry_01.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

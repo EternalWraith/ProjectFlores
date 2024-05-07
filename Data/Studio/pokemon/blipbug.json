@@ -1,0 +1,101 @@
+{
+    "klass": "Specie",
+    "id": 824,
+    "dbSymbol": "blipbug",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.4,
+            "weight": 8.0,
+            "type1": "bug",
+            "type2": "__undef__",
+            "baseHp": 25,
+            "baseAtk": 20,
+            "baseDfe": 20,
+            "baseSpd": 45,
+            "baseAts": 25,
+            "baseDfs": 45,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "dottler",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 10
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 36,
+            "baseLoyalty": 50,
+            "catchRate": 255,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                3
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "blipbug",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "swarm",
+                "compound_eyes",
+                "telepathy"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "struggle_bug",
+                    "level": 1
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "infestation"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "recover"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "sticky_web"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "supersonic"
+                }
+            ],
+            "resources": {
+                "icon": "0824",
+                "iconShiny": "",
+                "front": "0824",
+                "frontShiny": "0824",
+                "back": "0824",
+                "backShiny": "0824",
+                "footprint": "0824",
+                "character": "0824_00",
+                "characterShiny": "0824s_00",
+                "cry": "0824cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "klass": "Specie",
+    "id": 885,
+    "dbSymbol": "dreepy",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.5,
+            "weight": 2.0,
+            "type1": "dragon",
+            "type2": "ghost",
+            "baseHp": 28,
+            "baseAtk": 60,
+            "baseDfe": 30,
+            "baseSpd": 82,
+            "baseAts": 40,
+            "baseDfs": 30,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 1,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "drakloak",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 50
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 2,
+            "baseExperience": 54,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                11,
+                14
+            ],
+            "hatchSteps": 5120,
+            "babyDbSymbol": "dreepy",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "clear_body",
+                "infiltrator",
+                "cursed_body"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "astonish",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "bite",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "infestation",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "quick_attack",
+                    "level": 1
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "confuse_ray"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "curse"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "disable"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "double_team"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "dragon_tail"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "sucker_punch"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "confuse_ray"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "swift"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dragon_tail"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "endure"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sleep_talk"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_wave"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "substitute"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "helping_hand"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "baton_pass"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "draco_meteor"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "tera_blast"
+                }
+            ],
+            "resources": {
+                "icon": "0885",
+                "iconShiny": "",
+                "front": "0885",
+                "frontShiny": "0885",
+                "back": "0885",
+                "backShiny": "0885",
+                "footprint": "0885",
+                "character": "0885_00",
+                "characterShiny": "0885s_00",
+                "cry": "0885cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

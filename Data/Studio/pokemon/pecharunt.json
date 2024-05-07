@@ -1,0 +1,227 @@
+{
+    "klass": "Specie",
+    "id": 1025,
+    "dbSymbol": "pecharunt",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.3,
+            "weight": 0.3,
+            "type1": "poison",
+            "type2": "ghost",
+            "baseHp": 88,
+            "baseAtk": 88,
+            "baseDfe": 160,
+            "baseSpd": 88,
+            "baseAts": 88,
+            "baseDfs": 88,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 3,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 100,
+            "baseLoyalty": 100,
+            "catchRate": 3,
+            "femaleRate": -1,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 1000,
+            "babyDbSymbol": "pecharunt",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "poison_puppeteer",
+                "poison_puppeteer",
+                "poison_puppeteer"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "astonish",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "memento",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "poison_gas",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "smog",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "withdraw",
+                    "level": 8
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "destiny_bond",
+                    "level": 16
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "fake_tears",
+                    "level": 24
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "parting_shot",
+                    "level": 32
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "shadow_ball",
+                    "level": 40
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "malignant_chain",
+                    "level": 48
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "toxic",
+                    "level": 56
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "nasty_plot",
+                    "level": 64
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "recover",
+                    "level": 72
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fake_tears"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "acid_spray"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hex"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "night_shade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "venoshock"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "endure"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "foul_play"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sleep_talk"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "imprison"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "gunk_shot"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "substitute"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "shadow_ball"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "nasty_plot"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sludge_bomb"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "phantom_force"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "tera_blast"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "toxic"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "spite"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "poltergeist"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sludge_wave"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "curse"
+                }
+            ],
+            "resources": {
+                "icon": "1025",
+                "iconShiny": "",
+                "front": "1025",
+                "frontShiny": "1025",
+                "back": "1025",
+                "backShiny": "1025",
+                "footprint": "1025",
+                "character": "1025_00",
+                "characterShiny": "1025s_00",
+                "cry": "1025cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

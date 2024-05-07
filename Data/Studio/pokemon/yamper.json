@@ -1,0 +1,215 @@
+{
+    "klass": "Specie",
+    "id": 835,
+    "dbSymbol": "yamper",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.3,
+            "weight": 13.5,
+            "type1": "electric",
+            "type2": "__undef__",
+            "baseHp": 59,
+            "baseAtk": 45,
+            "baseDfe": 50,
+            "baseSpd": 26,
+            "baseAts": 40,
+            "baseDfs": 50,
+            "evHp": 1,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "boltund",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 25
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 0,
+            "baseExperience": 54,
+            "baseLoyalty": 50,
+            "catchRate": 255,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "yamper",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "ball_fetch",
+                "ball_fetch",
+                "rattled"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tackle",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tail_whip",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "nuzzle",
+                    "level": 5
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "bite",
+                    "level": 10
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "roar",
+                    "level": 15
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "spark",
+                    "level": 20
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "charm",
+                    "level": 26
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "crunch",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "charge",
+                    "level": 35
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "wild_charge",
+                    "level": 40
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "play_rough",
+                    "level": 45
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "discharge"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "double_edge"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "flame_charge"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "howl"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "sand_attack"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_wave"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dig"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snore"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "charm"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "attract"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "swift"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "helping_hand"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fire_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "round"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "volt_switch"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snarl"
+                }
+            ],
+            "resources": {
+                "icon": "0835",
+                "iconShiny": "",
+                "front": "0835",
+                "frontShiny": "0835",
+                "back": "0835",
+                "backShiny": "0835",
+                "footprint": "0835",
+                "character": "0835_00",
+                "characterShiny": "0835s_00",
+                "cry": "0835cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

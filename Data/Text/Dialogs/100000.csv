@@ -82,7 +82,7 @@ Slowpoke,Ramoloss,Slowpoke,Flegmon,Slowpoke,야돈,ヤドン
 Slowbro,Flagadoss,Slowbro,Lahmus,Slowbro,야도란,ヤドラン
 Magnemite,Magnéti,Magnemite,Magnetilo,Magnemite,코일,コイル
 Magneton,Magnéton,Magneton,Magneton,Magneton,레어코일,レアコイル
-Farfetch’d,Canarticho,Farfetch’d,Porenta,Farfetch’d,파오리,カモネギ
+Farfetch'd,Canarticho,Farfetch’d,Porenta,Farfetch’d,파오리,カモネギ
 Doduo,Doduo,Doduo,Dodu,Doduo,두두,ドードー
 Dodrio,Dodrio,Dodrio,Dodri,Dodrio,두트리오,ドードリオ
 Seel,Otaria,Seel,Jurob,Seel,쥬쥬,パウワウ
@@ -249,7 +249,7 @@ Larvitar,Embrylex,Larvitar,Larvitar,Larvitar,애버라스,ヨーギラス
 Pupitar,Ymphect,Pupitar,Pupitar,Pupitar,데기라스,サナギラス
 Tyranitar,Tyranocif,Tyranitar,Despotar,Tyranitar,마기라스,バンギラス
 Lugia,Lugia,Lugia,Lugia,Lugia,루기아,ルギア
-Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,칠색조,ホウオウ
+Ho-oh,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,칠색조,ホウオウ
 Celebi,Celebi,Celebi,Celebi,Celebi,세레비,セレビィ
 Treecko,Arcko,Treecko,Geckarbor,Treecko,나무지기,キモリ
 Grovyle,Massko,Grovyle,Reptain,Grovyle,나무돌이,ジュプトル
@@ -438,7 +438,7 @@ Skuntank,Moufflair,Skuntank,Skuntank,Skuntank,스컹탱크,スカタンク
 Bronzor,Archéomire,Bronzor,Bronzel,Bronzor,동미러,ドーミラー
 Bronzong,Archéodong,Bronzong,Bronzong,Bronzong,동탁군,ドータクン
 Bonsly,Manzaï,Bonsly,Mobai,Bonsly,꼬지지,ウソハチ
-Mime Jr.,Mime Jr.,Mime Jr.,Pantimimi,Mime Jr.,흉내내,マネネ
+Mime Jr.,Mime Jr,Mime Jr.,Pantimimi,Mime Jr.,흉내내,マネネ
 Happiny,Ptiravi,Happiny,Wonneira,Happiny,핑복,ピンプク
 Chatot,Pijako,Chatot,Plaudagei,Chatot,페라페,ペラップ
 Spiritomb,Spiritomb,Spiritomb,Kryppuk,Spiritomb,화강돌,ミカルゲ
@@ -468,7 +468,7 @@ Tangrowth,Bouldeneu,Tangrowth,Tangoloss,Tangrowth,덩쿠림보,モジャンボ
 Electivire,Élekable,Electivire,Elevoltek,Electivire,에레키블,エレキブル
 Magmortar,Maganon,Magmortar,Magbrant,Magmortar,마그마번,ブーバーン
 Togekiss,Togekiss,Togekiss,Togekiss,Togekiss,토게키스,トゲキッス
-Yanmega,Yanmega,Yanmega,Yanmega,Yanmega,메가자리,メガヤンマ
+Yanmega,Yanméga,Yanmega,Yanmega,Yanmega,메가자리,メガヤンマ
 Leafeon,Phyllali,Leafeon,Folipurba,Leafeon,리피아,リーフィア
 Glaceon,Givrali,Glaceon,Glaziola,Glaceon,글레이시아,グレイシア
 Gliscor,Scorvol,Gliscor,Skorgro,Gliscor,글라이온,グライオン
@@ -493,36 +493,36 @@ Manaphy,Manaphy,Manaphy,Manaphy,Manaphy,마나피,マナフィ
 Darkrai,Darkrai,Darkrai,Darkrai,Darkrai,다크라이,ダークライ
 Shaymin,Shaymin,Shaymin,Shaymin,Shaymin,쉐이미,シェイミ
 Arceus,Arceus,Arceus,Arceus,Arceus,아르세우스,アルセウス
-Victini,Victini,Victini,Victini,Victini,비크티니,ビクティニ
-Snivy,Vipélierre,Snivy,Serpifeu,Snivy,주리비얀,ツタージャ
-Servine,Lianaja,Servine,Efoserp,Servine,샤비,ジャノビー
-Serperior,Majaspic,Serperior,Serpiroyal,Serperior,샤로다,ジャローダ
-Tepig,Gruikui,Tepig,Floink,Tepig,뚜꾸리,ポカブ
-Pignite,Grotichon,Pignite,Ferkokel,Pignite,차오꿀,チャオブー
-Emboar,Roitiflam,Emboar,Flambirex,Emboar,염무왕,エンブオー
+Victini,Victini,Victini,Victini,Victini,Victini,Victini
+Snivy,Snivy,Snivy,Snivy,Snivy,Snivy,Snivy
+Servine,Servine,Servine,Servine,Servine,Servine,Servine
+Serperior,Serperior,Serperior,Serperior,Serperior,Serperior,Serperior
+Tepig,Tepig,Tepig,Tepig,Tepig,Tepig,Tepig
+Pignite,Pignite,Pignite,Pignite,Pignite,Pignite,Pignite
+Emboar,Emboar,Emboar,Emboar,Emboar,Emboar,Emboar
 Oshawott,Moustillon,Oshawott,Ottaro,Oshawott,수댕이,ミジュマル
 Dewott,Mateloutre,Dewott,Zwottronin,Dewott,쌍검자비,フタチマル
-Samurott,Clamiral,Samurott,Admurai,Samurott,대검귀,ダイケンキ
-Patrat,Ratentif,Patrat,Nagelotz,Patrat,보르쥐,ミネズミ
-Watchog,Miradar,Watchog,Kukmarda,Watchog,보르그,ミルホッグ
+Samurott,Samurott,Samurott,Samurott,Samurott,Samurott,Samurott
+Patrat,Patrat,Patrat,Patrat,Patrat,Patrat,Patrat
+Watchog,Watchog,Watchog,Watchog,Watchog,Watchog,Watchog
 Lillipup,Ponchiot,Lillipup,Yorkleff,Lillipup,요테리,ヨーテリー
 Herdier,Ponchien,Herdier,Terribark,Herdier,하데리어,ハーデリア
 Stoutland,Mastouffe,Stoutland,Bissbark,Stoutland,바랜드,ムーランド
 Purrloin,Chacripan,Purrloin,Felilou,Purrloin,쌔비냥,チョロネコ
 Liepard,Léopardus,Liepard,Kleoparda,Liepard,레파르다스,レパルダス
-Pansage,Feuillajou,Pansage,Vegimak,Pansage,야나프,ヤナップ
-Simisage,Feuiloutan,Simisage,Vegichita,Simisage,야나키,ヤナッキー
-Pansear,Flamajou,Pansear,Grillmak,Pansear,바오프,バオップ
-Simisear,Flamoutan,Simisear,Grillchita,Simisear,바오키,バオッキー
-Panpour,Flotajou,Panpour,Sodamak,Panpour,앗차프,ヒヤップ
-Simipour,Flotoutan,Simipour,Sodachita,Simipour,앗차키,ヒヤッキー
+Pansage,Pansage,Pansage,Pansage,Pansage,Pansage,Pansage
+Simisage,Simisage,Simisage,Simisage,Simisage,Simisage,Simisage
+Pansear,Pansear,Pansear,Pansear,Pansear,Pansear,Pansear
+Simisear,Simisear,Simisear,Simisear,Simisear,Simisear,Simisear
+Panpour,Panpour,Panpour,Panpour,Panpour,Panpour,Panpour
+Simipour,Simipour,Simipour,Simipour,Simipour,Simipour,Simipour
 Munna,Munna,Munna,Somniam,Munna,몽나,ムンナ
 Musharna,Mushana,Musharna,Somnivora,Musharna,몽얌나,ムシャーナ
 Pidove,Poichigeon,Pidove,Dusselgurr,Pidove,콩둘기,マメパト
 Tranquill,Colombeau,Tranquill,Navitaub,Tranquill,유토브,ハトーボー
-Unfezant,Déflaisan,Unfezant,Fasasnob,Unfezant,켄호로우,ケンホロウ
-Blitzle,Zébibron,Blitzle,Elezeba,Blitzle,줄뮤마,シママ
-Zebstrika,Zéblitz,Zebstrika,Zebritz,Zebstrika,제브라이카,ゼブライカ
+Unfezant,Unfezant,Unfezant,Unfezant,Unfezant,Unfezant,Unfezant
+Blitzle,Blitzle,Blitzle,Blitzle,Blitzle,Blitzle,Blitzle
+Zebstrika,Zebstrika,Zebstrika,Zebstrika,Zebstrika,Zebstrika,Zebstrika
 Roggenrola,Nodulithe,Roggenrola,Kiesling,Roggenrola,단굴,ダンゴロ
 Boldore,Géolithe,Boldore,Sedimantur,Boldore,암트르,ガントル
 Gigalith,Gigalithe,Gigalith,Brockoloss,Gigalith,기가이어스,ギガイアス
@@ -539,9 +539,9 @@ Palpitoad,Batracné,Palpitoad,Mebrana,Palpitoad,두까비,ガマガル
 Seismitoad,Crapustule,Seismitoad,Branawarz,Seismitoad,두빅굴,ガマゲロゲ
 Throh,Judokrak,Throh,Jiutesto,Throh,던지미,ナゲキ
 Sawk,Karaclée,Sawk,Karadonis,Sawk,타격귀,ダゲキ
-Sewaddle,Larveyette,Sewaddle,Strawickl,Sewaddle,두르보,クルミル
-Swadloon,Couverdure,Swadloon,Folikon,Swadloon,두르쿤,クルマユ
-Leavanny,Manternel,Leavanny,Matrifol,Leavanny,모아머,ハハコモリ
+Sewaddle,Sewaddle,Sewaddle,Sewaddle,Sewaddle,Sewaddle,Sewaddle
+Swadloon,Swadloon,Swadloon,Swadloon,Swadloon,Swadloon,Swadloon
+Leavanny,Leavanny,Leavanny,Leavanny,Leavanny,Leavanny,Leavanny
 Venipede,Venipatte,Venipede,Toxiped,Venipede,마디네,フシデ
 Whirlipede,Scobolide,Whirlipede,Rollum,Whirlipede,휠구,ホイーガ
 Scolipede,Brutapode,Scolipede,Cerapendra,Scolipede,펜드라,ペンドラー
@@ -549,12 +549,12 @@ Cottonee,Doudouvet,Cottonee,Waumboll,Cottonee,소미안,モンメン
 Whimsicott,Farfaduvet,Whimsicott,Elfun,Whimsicott,엘풍,エルフーン
 Petilil,Chlorobule,Petilil,Lilminip,Petilil,치릴리,チュリネ
 Lilligant,Fragilady,Lilligant,Dressella,Lilligant,드레디어,ドレディア
-Basculin,Bargantua,Basculin,Barschuft,Basculin,배쓰나이,バスラオ
+Basculin,Basculin,Basculin,Basculin,Basculin,Basculin,Basculin
 Sandile,Mascaïman,Sandile,Ganovil,Sandile,깜눈크,メグロコ
 Krokorok,Escroco,Krokorok,Rokkaiman,Krokorok,악비르,ワルビル
 Krookodile,Crocorible,Krookodile,Rabigator,Krookodile,악비아르,ワルビアル
 Darumaka,Darumarond,Darumaka,Flampion,Darumaka,달막화,ダルマッカ
-Darmanitan,Darumacho,Darmanitan,Flampivian,Darmanitan,불비달마,ヒヒダルマ
+Darmanitan,Darmanitan,Darmanitan,Darmanitan,Darmanitan,Darmanitan,Darmanitan
 Maractus,Maracachi,Maractus,Maracamba,Maractus,마라카치,マラカッチ
 Dwebble,Crabicoque,Dwebble,Lithomith,Dwebble,돌살이,イシズマイ
 Crustle,Crabaraque,Crustle,Castellith,Crustle,암팰리스,イワパレス
@@ -579,13 +579,13 @@ Gothitelle,Sidérella,Gothitelle,Morbitesse,Gothitelle,고디모아젤,ゴチル
 Solosis,Nucléos,Solosis,Monozyto,Solosis,유니란,ユニラン
 Duosion,Méios,Duosion,Mitodos,Duosion,듀란,ダブラン
 Reuniclus,Symbios,Reuniclus,Zytomega,Reuniclus,란쿨루스,ランクルス
-Ducklett,Couaneton,Ducklett,Piccolente,Ducklett,꼬지보리,コアルヒー
-Swanna,Lakmécygne,Swanna,Swaroness,Swanna,스완나,スワンナ
+Ducklett,Ducklett,Ducklett,Ducklett,Ducklett,Ducklett,Ducklett
+Swanna,Swanna,Swanna,Swanna,Swanna,Swanna,Swanna
 Vanillite,Sorbébé,Vanillite,Gelatini,Vanillite,바닐프티,バニプッチ
 Vanillish,Sorboul,Vanillish,Gelatroppo,Vanillish,바닐리치,バニリッチ
 Vanilluxe,Sorbouboul,Vanilluxe,Gelatwino,Vanilluxe,배바닐라,バイバニラ
-Deerling,Vivaldaim,Deerling,Sesokitz,Deerling,사철록,シキジカ
-Sawsbuck,Haydaim,Sawsbuck,Kronjuwild,Sawsbuck,바라철록,メブキジカ
+Deerling,Deerling,Deerling,Deerling,Deerling,Deerling,Deerling
+Sawsbuck,Sawsbuck,Sawsbuck,Sawsbuck,Sawsbuck,Sawsbuck,Sawsbuck
 Emolga,Emolga,Emolga,Emolga,Emolga,에몽가,エモンガ
 Karrablast,Carabing,Karrablast,Laukaps,Karrablast,딱정곤,カブルモ
 Escavalier,Lançargot,Escavalier,Cavalanzas,Escavalier,슈바르고,シュバルゴ
@@ -646,18 +646,18 @@ Reshiram,Reshiram,Reshiram,Reshiram,Reshiram,레시라무,レシラム
 Zekrom,Zekrom,Zekrom,Zekrom,Zekrom,제크로무,ゼクロム
 Landorus,Démétéros,Landorus,Demeteros,Landorus,랜드로스,ランドロス
 Kyurem,Kyurem,Kyurem,Kyurem,Kyurem,큐레무,キュレム
-Keldeo,Keldeo,Keldeo,Keldeo,Keldeo,케르디오,ケルディオ
-Meloetta,Meloetta,Meloetta,Meloetta,Meloetta,메로엣타,メロエッタ
-Genesect,Genesect,Genesect,Genesect,Genesect,게노세크트,ゲノセクト
-Chespin,Marisson,Chespin,Igamaro,Chespin,도치마론,ハリマロン
-Quilladin,Boguérisse,Quilladin,Igastarnish,Quilladin,도치보구,ハリボーグ
-Chesnaught,Blindépique,Chesnaught,Brigaron,Chesnaught,브리가론,ブリガロン
-Fennekin,Feunnec,Fennekin,Fynx,Fennekin,푸호꼬,フォッコ
-Braixen,Roussil,Braixen,Rutena,Braixen,테르나,テールナー
-Delphox,Goupelin,Delphox,Fennexis,Delphox,마폭시,マフォクシー
-Froakie,Grenousse,Froakie,Froxy,Froakie,개구마르,ケロマツ
-Frogadier,Croâporal,Frogadier,Amphizel,Frogadier,개굴반장,ゲコガシラ
-Greninja,Amphinobi,Greninja,Quajutsu,Greninja,개굴닌자,ゲッコウガ
+Keldeo,Keldeo,Keldeo,Keldeo,Keldeo,Keldeo,Keldeo
+Meloetta,Meloetta,Meloetta,Meloetta,Meloetta,Meloetta,Meloetta
+Genesect,Genesect,Genesect,Genesect,Genesect,Genesect,Genesect
+Chespin,Chespin,Chespin,Chespin,Chespin,Chespin,Chespin
+Quilladin,Quilladin,Quilladin,Quilladin,Quilladin,Quilladin,Quilladin
+Chesnaught,Chesnaught,Chesnaught,Chesnaught,Chesnaught,Chesnaught,Chesnaught
+Fennekin,Fennekin,Fennekin,Fennekin,Fennekin,Fennekin,Fennekin
+Braixen,Braixen,Braixen,Braixen,Braixen,Braixen,Braixen
+Delphox,Delphox,Delphox,Delphox,Delphox,Delphox,Delphox
+Froakie,Froakie,Froakie,Froakie,Froakie,Froakie,Froakie
+Frogadier,Frogadier,Frogadier,Frogadier,Frogadier,Frogadier,Frogadier
+Greninja,Greninja,Greninja,Greninja,Greninja,Greninja,Greninja
 Bunnelby,Sapereau,Bunnelby,Scoppel,Bunnelby,파르빗,ホルビー
 Diggersby,Excavarenne,Diggersby,Grebbit,Diggersby,파르토,ホルード
 Fletchling,Passerouge,Fletchling,Dartiri,Fletchling,화살꼬빈,ヤヤコマ
@@ -665,7 +665,7 @@ Fletchinder,Braisillon,Fletchinder,Dartignis,Fletchinder,불화살빈,ヒノヤ�
 Talonflame,Flambusard,Talonflame,Fiaro,Talonflame,파이어로,ファイアロー
 Scatterbug,Lépidonille,Scatterbug,Purmel,Scatterbug,분이벌레,コフキムシ
 Spewpa,Pérégrain,Spewpa,Puponcho,Spewpa,분떠도리,コフーライ
-Vivillon,Prismillon,Vivillon,Vivillon,Vivillon,비비용,ビビヨン
+Vivillon,Vivillon,Vivillon,Vivillon,Vivillon,Vivillon,Vivillon
 Litleo,Hélionceau,Litleo,Leufeo,Litleo,레오꼬,シシコ
 Pyroar,Némélios,Pyroar,Pyroleo,Pyroar,화염레오,カエンジシ
 Flabébé,Flabébé,Flabébé,Flabébé,Flabébé,플라베베,フラベベ
@@ -677,10 +677,10 @@ Pancham,Pandespiègle,Pancham,Pam-Pam,Pancham,판짱,ヤンチャム
 Pangoro,Pandarbare,Pangoro,Pandagro,Pangoro,부란다,ゴロンダ
 Furfrou,Couafarel,Furfrou,Coiffwaff,Furfrou,트리미앙,トリミアン
 Espurr,Psystigri,Espurr,Psiau,Espurr,냐스퍼,ニャスパー
-Meowstic,Mistigrix,Meowstic,Psiaugon,Meowstic,냐오닉스,ニャオニクス
+Meowstic,Meowstic,Meowstic,Meowstic,Meowstic,Meowstic,Meowstic
 Honedge,Monorpale,Honedge,Gramokles,Honedge,단칼빙,ヒトツキ
 Doublade,Dimoclès,Doublade,Duokles,Doublade,쌍검킬,ニダンギル
-Aegislash,Exagide,Aegislash,Durengard,Aegislash,킬가르도,ギルガルド
+Aegislash,Aegislash,Aegislash,Aegislash,Aegislash,Aegislash,Aegislash
 Spritzee,Fluvetin,Spritzee,Parfi,Spritzee,슈쁘,シュシュプ
 Aromatisse,Cocotine,Aromatisse,Parfinesse,Aromatisse,프레프티르,フレフワン
 Swirlix,Sucroquin,Swirlix,Flauschling,Swirlix,나룸퍼프,ペロッパフ
@@ -709,18 +709,18 @@ Goodra,Muplodocus,Goodra,Viscogon,Goodra,미끄래곤,ヌメルゴン
 Klefki,Trousselin,Klefki,Clavion,Klefki,클레피,クレッフィ
 Phantump,Brocélôme,Phantump,Paragoni,Phantump,나목령,ボクレー
 Trevenant,Desséliande,Trevenant,Trombork,Trevenant,대로트,オーロット
-Pumpkaboo,Pitrouille,Pumpkaboo,Irrbis,Pumpkaboo,호바귀,バケッチャ
-Gourgeist,Banshitrouye,Gourgeist,Pumpdjinn,Gourgeist,펌킨인,パンプジン
+Pumpkaboo,Pumpkaboo,Pumpkaboo,Pumpkaboo,Pumpkaboo,Pumpkaboo,Pumpkaboo
+Gourgeist,Gourgeist,Gourgeist,Gourgeist,Gourgeist,Gourgeist,Gourgeist
 Bergmite,Grelaçon,Bergmite,Arktip,Bergmite,꽁어름,カチコール
 Avalugg,Séracrawl,Avalugg,Arktilas,Avalugg,크레베이스,クレベース
 Noibat,Sonistrelle,Noibat,eF-eM,Noibat,음뱃,オンバット
 Noivern,Bruyverne,Noivern,UHaFnir,Noivern,음번,オンバーン
-Xerneas,Xerneas,Xerneas,Xerneas,Xerneas,제르네아스,ゼルネアス
-Yveltal,Yveltal,Yveltal,Yveltal,Yveltal,이벨타르,イベルタル
+Xerneas,Xerneas,Xerneas,Xerneas,Xerneas,Xerneas,Xerneas
+Yveltal,Yveltal,Yveltal,Yveltal,Yveltal,Yveltal,Yveltal
 Zygarde,Zygarde,Zygarde,Zygarde,Zygarde,지가르데,ジガルデ
-Diancie,Diancie,Diancie,Diancie,Diancie,디안시,ディアンシー
-Hoopa,Hoopa,Hoopa,Hoopa,Hoopa,후파,フーパ
-Volcanion,Volcanion,Volcanion,Volcanion,Volcanion,볼케니온,ボルケニオン
+Diancie,Diancie,Diancie,Diancie,Diancie,Diancie,Diancie
+Hoopa,Hoopa,Hoopa,Hoopa,Hoopa,Hoopa,Hoopa
+Volcanion,Volcanion,Volcanion,Volcanion,Volcanion,Volcanion,Volcanion
 Rowlet,Brindibou,Rowlet,Bauz,Rowlet,나몰빼미,モクロー
 Dartrix,Efflèche,Dartrix,Arboretoss,Dartrix,빼미스로우,フクスロー
 Decidueye,Archéduc,Decidueye,Silvarro,Decidueye,모크나이퍼,ジュナイパー
@@ -864,7 +864,7 @@ Grimmsnarl,Angoliath,Grimmsnarl,Olangaar,Grimmsnarl,오롱털,オーロンゲ
 Obstagoon,Ixon,Obstagoon,Barrikadax,Obstagoon,가로막구리,タチフサグマ
 Perrserker,Berserkatt,Perrserker,Mauzinger,Perrserker,나이킹,ニャイキング
 Cursola,Corayôme,Cursola,Gorgasonn,Cursola,산호르곤,サニゴーン
-Sirfetch’d,Palarticho,Sirfetch’d,Lauchzelot,Sirfetch’d,창파나이트,ネギガナイト
+Sirfetch'd,Palarticho,Sirfetch’d,Lauchzelot,Sirfetch’d,창파나이트,ネギガナイト
 Mr. Rime,M. Glaquette,Mr. Rime,Pantifrost,Mr. Rime,마임꽁꽁,バリコオル
 Runerigus,Tutétékri,Runerigus,Oghnatoll,Runerigus,데스판,デスバーン
 Milcery,Crèmy,Milcery,Hokumil,Milcery,마빌크,マホミル
@@ -898,3 +898,130 @@ Regidrago,Regidrago,Regidrago,Regidrago,Regidrago,레지드래고,レジドラ�
 Glastrier,Blizzeval,Glastrier,Polaross,Glastrier,블리자포스,ブリザポス
 Spectrier,Spectreval,Spectrier,Phantoross,Spectrier,레이스포스,レイスポス
 Calyrex,Sylveroy,Calyrex,Coronospa,Calyrex,버드렉스,バドレックス
+Wyrdeer,Cerbyllin,Wyrdeer,Damythir,Wyrdeer,신비록,アヤシシ
+Kleavor,Hachécateur,Kleavor,Axantor,Kleavor,사마자르,バサギリ
+Ursaluna,Ursaking,Ursaluna,Ursaluna,Ursaluna,다투곰,ガチグマ
+Basculegion,Paragruel,Basculegion,Salmagnis,Basculegion,대쓰여너,イダイトウ
+Sneasler,Farfurex,Sneasler,Snieboss,Sneasler,포푸니크,オオニューラ
+Overqwil,Qwilpik,Overqwil,Myriador,Overqwil,장침바루,ハリーマン
+Enamorus,Amovénus,Enamorus,Cupidos,Enamorus,러브로스,ラブトロス
+Sprigatito,Poussacha,Sprigatito,Felori,Sprigatito,나오하,ニャオハ
+Floragato,Matourgeon,Floragato,Feliospa,Floragato,나로테,ニャローテ
+Meowscarada,Miascarade,Meowscarada,Maskagato,Meowscarada,마스카나,マスカーニャ
+Fuecoco,Chochodile,Fuecoco,Krokel,Fuecoco,뜨아거,ホゲータ
+Crocalor,Crocogril,Crocalor,Lokroko,Crocalor,악뜨거,アチゲータ
+Skeledirge,Flâmigator,Skeledirge,Skelokrok,Skeledirge,라우드본,ラウドボーン
+Quaxly,Coiffeton,Quaxly,Kwaks,Quaxly,꾸왁스,クワッス
+Quaxwell,Canarbello,Quaxwell,Fuentente,Quaxwell,아꾸왁,ウェルカモ
+Quaquaval,Palmaval,Quaquaval,Bailonda,Quaquaval,웨이니발,ウェーニバル
+Lechonk,Gourmelet,Lechonk,Ferkuli,Lechonk,맛보돈,グルトン
+Oinkologne,Fragroin,Oinkologne,Fragrunz,Oinkologne,퍼퓨돈,パフュートン
+Tarountula,Tissenboule,Tarountula,Tarundel,Tarountula,타랜툴라,タマンチュラ
+Spidops,Filentrappe,Spidops,Spinsidias,Spidops,트래피더,ワナイダー
+Nymble,Lilliterelle,Nymble,Micrick,Nymble,콩알뚜기,マメバッタ
+Lokix,Gambex,Lokix,Lextremo,Lokix,엑스레그,エクスレッグ
+Pawmi,Pohm,Pawmi,Pamo,Pawmi,빠모,パモ
+Pawmo,Pohmotte,Pawmo,Pamamo,Pawmo,빠모트,パモット
+Pawmot,Pohmarmotte,Pawmot,Pamomamo,Pawmot,빠르모트,パーモット
+Tandemaus,Compagnol,Tandemaus,Zwieps,Tandemaus,두리쥐,ワッカネズミ
+Maushold,Famignol,Maushold,Famieps,Maushold,파밀리쥐,イッカネズミ
+Fidough,Pâtachiot,Fidough,Hefel,Fidough,쫀도기,パピモッチ
+Dachsbun,Briochien,Dachsbun,Backel,Dachsbun,바우첼,バウッツェル
+Smoliv,Olivini,Smoliv,Olini,Smoliv,미니브,ミニーブ
+Dolliv,Olivado,Dolliv,Olivinio,Dolliv,올리뇨,オリーニョ
+Arboliva,Arboliva,Arboliva,Olithena,Arboliva,올리르바,オリーヴァ
+Squawkabilly,Tapatoès,Squawkabilly,Krawalloro,Squawkabilly,시비꼬,イキリンコ
+Nacli,Selutin,Nacli,Geosali,Nacli,베베솔트,コジオ
+Naclstack,Amassel,Naclstack,Sedisal,Naclstack,스태솔트,ジオヅム
+Garganacl,Gigansel,Garganacl,Saltigant,Garganacl,콜로솔트,キョジオーン
+Charcadet,Charbambin,Charcadet,Knarbon,Charcadet,카르본,カルボウ
+Armarouge,Carmadura,Armarouge,Crimanzo,Armarouge,카디나르마,グレンアルマ
+Ceruledge,Malvalame,Ceruledge,Azugladis,Ceruledge,파라블레이즈,ソウブレイズ
+Tadbulb,Têtampoule,Tadbulb,Blipp,Tadbulb,빈나두,ズピカ
+Bellibolt,Ampibidou,Bellibolt,Wampitz,Bellibolt,찌리배리,ハラバリー
+Wattrel,Zapétrel,Wattrel,Voltrel,Wattrel,찌리비,カイデン
+Kilowattrel,Fulgulairo,Kilowattrel,Voltrean,Kilowattrel,찌리비크,タイカイデン
+Maschiff,Grondogue,Maschiff,Mobtiff,Maschiff,오라티프,オラチフ
+Mabosstiff,Dogrino,Mabosstiff,Mastifioso,Mabosstiff,마피티프,マフィティフ
+Shroodle,Gribouraigne,Shroodle,Sproxi,Shroodle,땃쭈르,シルシュルー
+Grafaiai,Tag-Tag,Grafaiai,Affiti,Grafaiai,태깅구르,タギングル
+Bramblin,Virovent,Bramblin,Weherba,Bramblin,그푸리,アノクサ
+Brambleghast,Virevorreur,Brambleghast,Horrerba,Brambleghast,공푸리,アノホラグサ
+Toedscool,Terracool,Toedscool,Tentagra,Toedscool,들눈해,ノノクラゲ
+Toedscruel,Terracruel,Toedscruel,Tenterra,Toedscruel,육파리,リククラゲ
+Klawf,Craparoi,Klawf,Klibbe,Klawf,절벼게,ガケガニ
+Capsakid,Pimito,Capsakid,Chilingel,Capsakid,캡싸이,カプサイジ
+Scovillain,Scovilain,Scovillain,Halupenjo,Scovillain,스코빌런,スコヴィラン
+Rellor,Léboulérou,Rellor,Relluk,Rellor,구르데,シガロコ
+Rabsca,Bérasca,Rabsca,Skarabaks,Rabsca,베라카스,ベラカス
+Flittle,Flotillon,Flittle,Flattutu,Flittle,하느라기,ヒラヒナ
+Espathra,Cléopsytra,Espathra,Psiopatra,Espathra,클레스퍼트라,クエスパトラ
+Tinkatink,Forgerette,Tinkatink,Forgita,Tinkatink,어리짱,カヌチャン
+Tinkatuff,Forgella,Tinkatuff,Tafforgita,Tinkatuff,벼리짱,ナカヌチャン
+Tinkaton,Forgelina,Tinkaton,Granforgita,Tinkaton,두드리짱,デカヌチャン
+Wiglett,Taupikeau,Wiglett,Schligda,Wiglett,바다그다,ウミディグダ
+Wugtrio,Triopikeau,Wugtrio,Schligdri,Wugtrio,바닥트리오,ウミトリオ
+Bombirdier,Lestombaile,Bombirdier,Adebom,Bombirdier,떨구새,オトシドリ
+Finizen,Dofin,Finizen,Normifin,Finizen,맨돌핀,ナミイルカ
+Palafin,Superdofin,Palafin,Delfinator,Palafin,돌핀맨,イルカマン
+Varoom,Vrombi,Varoom,Knattox,Varoom,부르롱,ブロロン
+Revavroom,Vrombotor,Revavroom,Knattatox,Revavroom,부르르룸,ブロロローム
+Cyclizar,Motorizard,Cyclizar,Mopex,Cyclizar,모토마,モトトカゲ
+Orthworm,Ferdeter,Orthworm,Schlurm,Orthworm,꿈트렁,ミミズズ
+Glimmet,Germéclat,Glimmet,Lumispross,Glimmet,초롱순,キラーメ
+Glimmora,Floréclat,Glimmora,Lumiflora,Glimmora,킬라플로르,キラフロル
+Greavard,Toutombe,Greavard,Gruff,Greavard,망망이,ボチ
+Houndstone,Tomberro,Houndstone,Friedwuff,Houndstone,묘두기,ハカドッグ
+Flamigo,Flamenroule,Flamigo,Flaminkno,Flamigo,꼬이밍고,カラミンゴ
+Cetoddle,Piétacé,Cetoddle,Flaniwal,Cetoddle,터벅고래,アルクジラ
+Cetitan,Balbalèze,Cetitan,Kolowal,Cetitan,우락고래,ハルクジラ
+Veluza,Délestin,Veluza,Agiluza,Veluza,가비루사,ミガルーサ
+Dondozo,Oyacata,Dondozo,Heerashai,Dondozo,어써러셔,ヘイラッシャ
+Tatsugiri,Nigirigon,Tatsugiri,Nigiragi,Tatsugiri,싸리용,シャリタツ
+Annihilape,Courrousinge,Annihilape,Epitaff,Annihilape,저승갓숭,コノヨザル
+Clodsire,Terraiste,Clodsire,Suelord,Clodsire,토오,ドオー
+Farigiraf,Farigiraf,Farigiraf,Farigiraf,Farigiraf,키키링,リキキリン
+Dudunsparce,Deusolourdo,Dudunsparce,Dummimisel,Dudunsparce,노고고치,ノココッチ
+Kingambit,Scalpereur,Kingambit,Gladimperio,Kingambit,대도각참,ドドゲザン
+Great Tusk,Fort-Ivoire,Grandizanne,Riesenzahn,Colmilargo,위대한엄니,イダイナキバ
+Scream Tail,Hurle-Queue,Codaurlante,Brüllschweif,Colagrito,우렁찬꼬리,サケブシッポ
+Brute Bonnet,Fongus-Furie,Fungofurioso,Wutpilz,Furioseta,사나운버섯,アラブルタケ
+Flutter Mane,Flotte-Mèche,Crinealato,Flatterhaar,Melenaleteo,날개치는머리,ハバタクカミ
+Slither Wing,Rampe-Ailes,Alirasenti,Kriechflügel,Reptalada,땅을기는날개,チヲハウハネ
+Sandy Shocks,Pelage-Sablé,Peldisabbia,Sandfell,Pelarena,모래털가죽,スナノケガワ
+Iron Treads,Roue-de-Fer,Solcoferreo,Eisenrad,Ferrodada,무쇠바퀴,テツノワダチ
+Iron Bundle,Hotte-de-Fer,Saccoferreo,Eisenbündel,Ferrosaco,무쇠보따리,テツノツツミ
+Iron Hands,Paume-de-Fer,Manoferrea,Eisenhand,Ferropalmas,무쇠손,テツノカイナ
+Iron Jugulis,Têtes-de-Fer,Colloferreo,Eisenhals,Ferrocuello,무쇠머리,テツノコウベ
+Iron Moth,Mite-de-Fer,Falenaferrea,Eisenfalter,Ferropolilla,무쇠독나방,テツノドクガ
+Iron Thorns,Épine-de-Fer,Spineferree,Eisendorn,Ferropúas,무쇠가시,テツノイバラ
+Frigibax,Frigodo,Frigibax,Frospino,Frigibax,드니차,セビエ
+Arctibax,Cryodo,Arctibax,Cryospino,Arctibax,드니꽁,セゴール
+Baxcalibur,Glaivodo,Baxcalibur,Espinodon,Baxcalibur,드닐레이브,セグレイブ
+Gimmighoul,Mordudor,Gimmighoul,Gierspenst,Gimmighoul,모으령,コレクレー
+Gholdengo,Gromago,Gholdengo,Monetigo,Gholdengo,타부자고,サーフゴー
+Wo-Chien,Chongjian,Wo-Chien,Chongjian,Wo-Chien,총지엔,チオンジェン
+Chien-Pao,Baojian,Chien-Pao,Baojian,Chien-Pao,파오젠,パオジアン
+Ting-Lu,Dinglu,Ting-Lu,Dinglu,Ting-Lu,딩루,ディンルー
+Chi-Yu,Yuyu,Chi-Yu,Yuyu,Chi-Yu,위유이,イーユイ
+Roaring Moon,Rugit-Lune,Lunaruggente,Donnersichel,Bramaluna,고동치는달,トドロクツキ
+Iron Valiant,Garde-de-Fer,Eroeferreo,Eisenkrieger,Ferropaladín,무쇠무인,テツノブジン
+Koraidon,Koraidon,Koraidon,Koraidon,Koraidon,코라이돈,コライドン
+Miraidon,Miraidon,Miraidon,Miraidon,Miraidon,미라이돈,ミライドン
+Walking Wake,Walking Wake,Walking Wake,Walking Wake,Walking Wake,Walking Wake,Walking Wake
+Iron Leaves,Iron Leaves,Iron Leaves,Iron Leaves,Iron Leaves,Iron Leaves,Iron Leaves
+Dipplin,Dipplin,Dipplin,Dipplin,Dipplin,Dipplin,Dipplin
+Poltchageist,Poltchageist,Poltchageist,Poltchageist,Poltchageist,Poltchageist,Poltchageist
+Sinistcha,Sinistcha,Sinistcha,Sinistcha,Sinistcha,Sinistcha,Sinistcha
+Okidogi,Okidogi,Okidogi,Okidogi,Okidogi,Okidogi,Okidogi
+Munkidori,Munkidori,Munkidori,Munkidori,Munkidori,Munkidori,Munkidori
+Fezandipiti,Fezandipiti,Fezandipiti,Fezandipiti,Fezandipiti,Fezandipiti,Fezandipiti
+Ogerpon,Ogerpon,Ogerpon,Ogerpon,Ogerpon,Ogerpon,Ogerpon
+Archaludon,Archaludon,Archaludon,Archaludon,Archaludon,Archaludon,Archaludon
+Hydrapple,Hydrapple,Hydrapple,Hydrapple,Hydrapple,Hydrapple,Hydrapple
+Gouging Fire,Gouging Fire,Gouging Fire,Gouging Fire,Gouging Fire,Gouging Fire,Gouging Fire
+Raging Bolt,Raging Bolt,Raging Bolt,Raging Bolt,Raging Bolt,Raging Bolt,Raging Bolt
+Iron Boulder,Iron Boulder,Iron Boulder,Iron Boulder,Iron Boulder,Iron Boulder,Iron Boulder
+Iron Crown,Iron Crown,Iron Crown,Iron Crown,Iron Crown,Iron Crown,Iron Crown
+Terapagos,Terapagos,Terapagos,Terapagos,Terapagos,Terapagos,Terapagos
+Pecharunt,Pecharunt,Pecharunt,Pecharunt,Pecharunt,Pecharunt,Pecharunt

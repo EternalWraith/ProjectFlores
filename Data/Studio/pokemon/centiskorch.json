@@ -1,0 +1,285 @@
+{
+    "klass": "Specie",
+    "id": 851,
+    "dbSymbol": "centiskorch",
+    "forms": [
+        {
+            "form": 0,
+            "height": 3.0,
+            "weight": 120.0,
+            "type1": "fire",
+            "type2": "bug",
+            "baseHp": 100,
+            "baseAtk": 115,
+            "baseDfe": 65,
+            "baseSpd": 65,
+            "baseAts": 90,
+            "baseDfs": 90,
+            "evHp": 0,
+            "evAtk": 2,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 184,
+            "baseLoyalty": 50,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                3
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "sizzlipede",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "flash_fire",
+                "white_smoke",
+                "flame_body"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0851",
+                "iconShiny": "",
+                "front": "0851",
+                "frontShiny": "0851",
+                "back": "0851",
+                "backShiny": "0851",
+                "footprint": "0851",
+                "character": "0851_00",
+                "characterShiny": "0851s_00",
+                "cry": "0851cry.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "bite",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "ember",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "inferno",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "smokescreen",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "wrap",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "flame_wheel",
+                    "level": 15
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "bug_bite",
+                    "level": 20
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "coil",
+                    "level": 25
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "slam",
+                    "level": 32
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "fire_spin",
+                    "level": 39
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "crunch",
+                    "level": 46
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "fire_lash",
+                    "level": 53
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "lunge",
+                    "level": 60
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "burn_up",
+                    "level": 67
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "defense_curl"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "knock_off"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "rollout"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "struggle_bug"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_impact"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "solar_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fire_spin"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snore"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "attract"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sunny_day"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "will_o_wisp"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thunder_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fire_fang"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "venoshock"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "round"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "mystical_fire"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "brutal_swing"
+                }
+            ]
+        },
+        {
+            "form": 1,
+            "height": 0,
+            "weight": 0,
+            "type1": "__undef__",
+            "type2": "__undef__",
+            "baseHp": 100,
+            "baseAtk": 100,
+            "baseDfe": 100,
+            "baseSpd": 100,
+            "baseAts": 100,
+            "baseDfs": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 0,
+            "baseExperience": 100,
+            "baseLoyalty": 100,
+            "catchRate": 100,
+            "femaleRate": 50,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 1000,
+            "babyDbSymbol": "centiskorch",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "intimidate",
+                "intimidate",
+                "intimidate"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0851_32",
+                "iconShiny": "",
+                "front": "0851_32",
+                "frontShiny": "0851_32",
+                "back": "0851_32",
+                "backShiny": "0851_32",
+                "footprint": "0851_01",
+                "character": "0851_01",
+                "characterShiny": "0851s_01",
+                "cry": "0851cry_01.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

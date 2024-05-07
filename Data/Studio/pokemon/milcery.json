@@ -1,0 +1,201 @@
+{
+    "klass": "Specie",
+    "id": 868,
+    "dbSymbol": "milcery",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.2,
+            "weight": 0.3,
+            "type1": "fairy",
+            "type2": "__undef__",
+            "baseHp": 45,
+            "baseAtk": 40,
+            "baseDfe": 40,
+            "baseSpd": 34,
+            "baseAts": 50,
+            "baseDfs": 61,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 0,
+            "evDfs": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "alcremie",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "stone",
+                            "value": "spin_around_holding_sweet"
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 54,
+            "baseLoyalty": 50,
+            "catchRate": 200,
+            "femaleRate": 100.0,
+            "breedGroups": [
+                11,
+                6
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "milcery",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "sweet_veil",
+                "sweet_veil",
+                "aroma_veil"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "aromatic_mist",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tackle",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "sweet_kiss",
+                    "level": 5
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "sweet_scent",
+                    "level": 10
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "draining_kiss",
+                    "level": 15
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "charm",
+                    "level": 20
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "attract",
+                    "level": 25
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "acid_armor",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "dazzling_gleam",
+                    "level": 35
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "recover",
+                    "level": 40
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "misty_terrain",
+                    "level": 45
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "entrainment",
+                    "level": 50
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "baby_doll_eyes"
+                },
+                {
+                    "klass": "BreedLearnableMove",
+                    "move": "last_resort"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "charm"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "draining_kiss"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "stored_power"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "endure"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sleep_talk"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "dazzling_gleam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "substitute"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "helping_hand"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "misty_terrain"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "tera_blast"
+                }
+            ],
+            "resources": {
+                "icon": "0868",
+                "iconShiny": "",
+                "front": "0868",
+                "frontShiny": "0868",
+                "back": "0868",
+                "backShiny": "0868",
+                "footprint": "0868",
+                "character": "0868_00",
+                "characterShiny": "0868s_00",
+                "cry": "0868cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

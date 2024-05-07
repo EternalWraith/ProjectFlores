@@ -1,0 +1,243 @@
+{
+    "klass": "Specie",
+    "id": 786,
+    "dbSymbol": "tapulele",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.2,
+            "weight": 18.6,
+            "type1": "psychic",
+            "type2": "fairy",
+            "baseHp": 70,
+            "baseAtk": 85,
+            "baseDfe": 75,
+            "baseSpd": 95,
+            "baseAts": 130,
+            "baseDfs": 115,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evSpd": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 257,
+            "baseLoyalty": 50,
+            "catchRate": 3,
+            "femaleRate": -1,
+            "breedGroups": [
+                8,
+                8
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "tapulele",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "psychic_surge",
+                "psychic_surge",
+                "telepathy"
+            ],
+            "frontOffsetY": 0,
+            "moveSet": [
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "astonish",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "confusion",
+                    "level": 1
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "withdraw",
+                    "level": 5
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "aromatherapy",
+                    "level": 10
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "draining_kiss",
+                    "level": 15
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "psybeam",
+                    "level": 20
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "flatter",
+                    "level": 25
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "aromatic_mist",
+                    "level": 30
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "sweet_scent",
+                    "level": 35
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "extrasensory",
+                    "level": 40
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "psyshock",
+                    "level": 45
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "mean_look",
+                    "level": 50
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "nature_s_madness",
+                    "level": 55
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "moonblast",
+                    "level": 60
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "tickle",
+                    "level": 65
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "skill_swap",
+                    "level": 70
+                },
+                {
+                    "klass": "LevelLearnableMove",
+                    "move": "psychic_terrain",
+                    "level": 75
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "hyper_beam"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "giga_impact"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "light_screen"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "reflect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "safeguard"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "rest"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "thief"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "snore"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "protect"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "charm"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "sunny_day"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "facade"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "fling"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "power_swap"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "guard_swap"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "speed_swap"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "psycho_cut"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "wonder_room"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "magic_room"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "round"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "draining_kiss"
+                },
+                {
+                    "klass": "TechLearnableMove",
+                    "move": "psychic_terrain"
+                }
+            ],
+            "resources": {
+                "icon": "0786",
+                "iconShiny": "",
+                "front": "0786",
+                "frontShiny": "0786",
+                "back": "0786",
+                "backShiny": "0786",
+                "footprint": "0786",
+                "character": "0786_00",
+                "characterShiny": "0786s_00",
+                "cry": "0786cry.ogg",
+                "hasFemale": false
+            }
+        }
+    ]
+}

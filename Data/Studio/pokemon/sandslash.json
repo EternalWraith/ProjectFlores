@@ -24,20 +24,19 @@
       "evolutions": [],
       "experienceType": 1,
       "baseExperience": 158,
-      "baseLoyalty": 70,
+      "baseLoyalty": 50,
       "catchRate": 90,
       "femaleRate": 50,
       "breedGroups": [
-        5,
         5
       ],
-      "hatchSteps": 5120,
+      "hatchSteps": 2560,
       "babyDbSymbol": "sandshrew",
       "babyForm": 0,
       "itemHeld": [
         {
-          "dbSymbol": "grip_claw",
-          "chance": 5
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
           "dbSymbol": "none",
@@ -51,22 +50,22 @@
       ],
       "frontOffsetY": 0,
       "resources": {
-        "icon": "028",
+        "icon": "0028",
         "iconShiny": "",
-        "front": "028",
-        "frontShiny": "028",
-        "back": "028",
-        "backShiny": "028",
-        "footprint": "028",
-        "character": "028_0",
-        "characterShiny": "028s_0",
-        "cry": "028cry.ogg",
+        "front": "0028",
+        "frontShiny": "0028",
+        "back": "0028",
+        "backShiny": "0028",
+        "footprint": "0028",
+        "character": "0028_00",
+        "characterShiny": "0028s_00",
+        "cry": "0028cry.ogg",
         "hasFemale": false
       },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "scratch",
+          "move": "crush_claw",
           "level": 1
         },
         {
@@ -86,135 +85,89 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "crush_claw",
+          "move": "scratch",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sand_attack",
-          "level": 3
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "poison_sting",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "rollout",
-          "level": 7
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rapid_spin",
           "level": 9
         },
         {
           "klass": "LevelLearnableMove",
           "move": "fury_cutter",
-          "level": 11
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "magnitude",
-          "level": 14
+          "move": "rapid_spin",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
           "move": "swift",
-          "level": 17
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
           "move": "fury_swipes",
-          "level": 20
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
           "move": "sand_tomb",
-          "level": 24
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
           "move": "slash",
-          "level": 28
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
           "move": "dig",
-          "level": 33
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
           "move": "gyro_ball",
-          "level": 38
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
           "move": "swords_dance",
-          "level": 43
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
           "move": "sandstorm",
-          "level": 48
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
           "move": "earthquake",
-          "level": 53
+          "level": 61
         },
         {
-          "klass": "TutorLearnableMove",
-          "move": "covet"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "focus_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "stealth_rock"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "iron_tail"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "snore"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "knock_off"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "earth_power"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "super_fang"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "stomping_tantrum"
+          "klass": "EvolutionLearnableMove",
+          "move": "icicle_spear"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "toxic"
+          "move": "take_down"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "hidden_power"
+          "move": "agility"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "sunny_day"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hyper_beam"
+          "move": "mud_slap"
         },
         {
           "klass": "TechLearnableMove",
@@ -222,51 +175,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "safeguard"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "frustration"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "earthquake"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "return"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "brick_break"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "double_team"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "sandstorm"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rock_tomb"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "aerial_ace"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "facade"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rest"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "attract"
+          "move": "low_kick"
         },
         {
           "klass": "TechLearnableMove",
@@ -274,35 +183,11 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "round"
+          "move": "facade"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "focus_blast"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "fling"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "shadow_claw"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "giga_impact"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "stone_edge"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "gyro_ball"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "swords_dance"
+          "move": "aerial_ace"
         },
         {
           "klass": "TechLearnableMove",
@@ -310,19 +195,55 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_slide"
+          "move": "metal_claw"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "x_scissor"
+          "move": "swift"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "poison_jab"
+          "move": "mud_shot"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "swagger"
+          "move": "rock_tomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "fling"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sunny_day"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sandstorm"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "false_swipe"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "brick_break"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "shadow_claw"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "body_slam"
         },
         {
           "klass": "TechLearnableMove",
@@ -330,35 +251,111 @@
         },
         {
           "klass": "TechLearnableMove",
+          "move": "poison_jab"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "stomping_tantrum"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_slide"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swords_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "spikes"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "leech_life"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "gunk_shot"
+        },
+        {
+          "klass": "TechLearnableMove",
           "move": "substitute"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "confide"
+          "move": "x_scissor"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "secret_power"
+          "move": "drill_run"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "cut"
+          "move": "stealth_rock"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "strength"
+          "move": "amnesia"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_smash"
+          "move": "earth_power"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_climb"
+          "move": "earthquake"
         },
         {
-          "klass": "EvolutionLearnableMove",
-          "move": "crush_claw"
+          "klass": "TechLearnableMove",
+          "move": "stone_edge"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_impact"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "focus_blast"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hyper_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "tera_blast"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sand_tomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "smack_down"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "gyro_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "knock_off"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "super_fang"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "high_horsepower"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "focus_punch"
         }
       ]
     },
@@ -383,14 +380,14 @@
       "evolutions": [],
       "experienceType": 1,
       "baseExperience": 158,
-      "baseLoyalty": 70,
+      "baseLoyalty": 50,
       "catchRate": 90,
       "femaleRate": 50,
       "breedGroups": [
         5,
-        5
+        0
       ],
-      "hatchSteps": 5120,
+      "hatchSteps": 2560,
       "babyDbSymbol": "sandshrew",
       "babyForm": 1,
       "itemHeld": [
@@ -410,42 +407,22 @@
       ],
       "frontOffsetY": 0,
       "resources": {
-        "icon": "028_01",
+        "icon": "0028_01",
         "iconShiny": "",
-        "front": "028_01",
-        "frontShiny": "028_01",
-        "back": "028_01",
-        "backShiny": "028_01",
-        "footprint": "028",
-        "character": "028_1",
-        "characterShiny": "",
-        "cry": "028cry.ogg",
+        "front": "0028_01",
+        "frontShiny": "0028_01",
+        "back": "0028_01",
+        "backShiny": "0028_01",
+        "footprint": "0028_01",
+        "character": "0028_01",
+        "characterShiny": "0028s_01",
+        "cry": "0028cry_01.ogg",
         "hasFemale": false
       },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "metal_burst",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "icicle_crash",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "slash",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "defense_curl",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "ice_ball",
           "level": 1
         },
         {
@@ -455,92 +432,25 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "icicle_spear",
+          "move": "slash",
           "level": 1
         },
         {
-          "klass": "TutorLearnableMove",
-          "move": "super_fang"
+          "klass": "LevelLearnableMove",
+          "move": "swords_dance",
+          "level": 1
         },
         {
-          "klass": "TutorLearnableMove",
-          "move": "throat_chop"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "aqua_tail"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "covet"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "focus_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "iron_defense"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "stealth_rock"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "ice_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "iron_tail"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "snore"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "knock_off"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "iron_head"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "drill_run"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "icy_wind"
+          "klass": "EvolutionLearnableMove",
+          "move": "icicle_spear"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "work_up"
+          "move": "take_down"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "toxic"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hail"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hidden_power"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "sunny_day"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "blizzard"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hyper_beam"
+          "move": "agility"
         },
         {
           "klass": "TechLearnableMove",
@@ -548,47 +458,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "safeguard"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "frustration"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "earthquake"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "return"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "leech_life"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "brick_break"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "double_team"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "aerial_ace"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "facade"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rest"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "attract"
+          "move": "low_kick"
         },
         {
           "klass": "TechLearnableMove",
@@ -596,35 +466,11 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "round"
+          "move": "facade"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "focus_blast"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "fling"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "shadow_claw"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "giga_impact"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "aurora_veil"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "gyro_ball"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "swords_dance"
+          "move": "aerial_ace"
         },
         {
           "klass": "TechLearnableMove",
@@ -632,23 +478,59 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "frost_breath"
+          "move": "metal_claw"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_slide"
+          "move": "swift"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "x_scissor"
+          "move": "icy_wind"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "poison_jab"
+          "move": "rock_tomb"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "swagger"
+          "move": "fling"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "avalanche"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snowscape"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "false_swipe"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "brick_break"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "shadow_claw"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "body_slam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "ice_punch"
         },
         {
           "klass": "TechLearnableMove",
@@ -656,35 +538,115 @@
         },
         {
           "klass": "TechLearnableMove",
+          "move": "poison_jab"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_slide"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swords_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "spikes"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "flash_cannon"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "leech_life"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "iron_head"
+        },
+        {
+          "klass": "TechLearnableMove",
           "move": "substitute"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "confide"
+          "move": "iron_defense"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "secret_power"
+          "move": "x_scissor"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "cut"
+          "move": "drill_run"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "strength"
+          "move": "stealth_rock"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_smash"
+          "move": "ice_spinner"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_climb"
+          "move": "amnesia"
         },
         {
-          "klass": "EvolutionLearnableMove",
+          "klass": "TechLearnableMove",
+          "move": "ice_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "blizzard"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "earthquake"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_impact"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "focus_blast"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hyper_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "steel_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "tera_blast"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "gyro_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "knock_off"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "super_fang"
+        },
+        {
+          "klass": "TechLearnableMove",
           "move": "icicle_spear"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "focus_punch"
         }
       ]
     }

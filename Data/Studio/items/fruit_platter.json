@@ -1,0 +1,16 @@
+{
+  "hpCount": 100,
+  "loyaltyMalus": 0,
+  "klass": "ConstantHealItem",
+  "id": 114,
+  "dbSymbol": "fruit_platter",
+  "icon": "0",
+  "price": 0,
+  "socket": 1,
+  "position": 0,
+  "isBattleUsable": false,
+  "isMapUsable": false,
+  "isLimited": false,
+  "isHoldable": false,
+  "flingPower": 30
+}
