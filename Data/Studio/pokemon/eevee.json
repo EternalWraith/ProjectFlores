@@ -109,6 +109,26 @@
               "value": 160
             }
           ]
+        },
+        {
+          "dbSymbol": "larvaeon",
+          "form": 0,
+          "conditions": []
+        },
+        {
+          "dbSymbol": "putreon",
+          "form": 0,
+          "conditions": []
+        },
+        {
+          "dbSymbol": "malleon",
+          "form": 0,
+          "conditions": []
+        },
+        {
+          "dbSymbol": "cacopheon",
+          "form": 0,
+          "conditions": []
         }
       ],
       "experienceType": 1,

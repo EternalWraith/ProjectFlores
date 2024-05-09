@@ -4107,6 +4107,438 @@
     {
       "dbSymbol": "pecharunt",
       "form": 0
+    },
+    {
+      "dbSymbol": "slombat",
+      "form": 0
+    },
+    {
+      "dbSymbol": "fightoth",
+      "form": 0
+    },
+    {
+      "dbSymbol": "gladiargi",
+      "form": 0
+    },
+    {
+      "dbSymbol": "calflame",
+      "form": 0
+    },
+    {
+      "dbSymbol": "heiflare",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bulloyd",
+      "form": 0
+    },
+    {
+      "dbSymbol": "halbeave",
+      "form": 0
+    },
+    {
+      "dbSymbol": "chisipelt",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hurlobol",
+      "form": 0
+    },
+    {
+      "dbSymbol": "farfud",
+      "form": 0
+    },
+    {
+      "dbSymbol": "farfull",
+      "form": 0
+    },
+    {
+      "dbSymbol": "farfamin",
+      "form": 0
+    },
+    {
+      "dbSymbol": "arumite",
+      "form": 0
+    },
+    {
+      "dbSymbol": "arumurg",
+      "form": 0
+    },
+    {
+      "dbSymbol": "codipuff",
+      "form": 0
+    },
+    {
+      "dbSymbol": "brignolo",
+      "form": 0
+    },
+    {
+      "dbSymbol": "temprano",
+      "form": 0
+    },
+    {
+      "dbSymbol": "drumpour",
+      "form": 0
+    },
+    {
+      "dbSymbol": "saxophlogi",
+      "form": 0
+    },
+    {
+      "dbSymbol": "oakacello",
+      "form": 0
+    },
+    {
+      "dbSymbol": "galviola",
+      "form": 0
+    },
+    {
+      "dbSymbol": "sapidato",
+      "form": 0
+    },
+    {
+      "dbSymbol": "granchan",
+      "form": 0
+    },
+    {
+      "dbSymbol": "fulmarmi",
+      "form": 0
+    },
+    {
+      "dbSymbol": "monkyno",
+      "form": 0
+    },
+    {
+      "dbSymbol": "gonglare",
+      "form": 0
+    },
+    {
+      "dbSymbol": "theshao",
+      "form": 0
+    },
+    {
+      "dbSymbol": "candlurk",
+      "form": 0
+    },
+    {
+      "dbSymbol": "walnero",
+      "form": 0
+    },
+    {
+      "dbSymbol": "manglero",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lekikub",
+      "form": 0
+    },
+    {
+      "dbSymbol": "voltizzli",
+      "form": 0
+    },
+    {
+      "dbSymbol": "noxursa",
+      "form": 0
+    },
+    {
+      "dbSymbol": "ibescorn",
+      "form": 0
+    },
+    {
+      "dbSymbol": "solorew",
+      "form": 0
+    },
+    {
+      "dbSymbol": "shrewduo",
+      "form": 0
+    },
+    {
+      "dbSymbol": "topocongo",
+      "form": 0
+    },
+    {
+      "dbSymbol": "groum",
+      "form": 0
+    },
+    {
+      "dbSymbol": "grockre",
+      "form": 0
+    },
+    {
+      "dbSymbol": "goognom",
+      "form": 0
+    },
+    {
+      "dbSymbol": "fantadmyr",
+      "form": 0
+    },
+    {
+      "dbSymbol": "vanspettr",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bergerph",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lupomasco",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lungourd",
+      "form": 0
+    },
+    {
+      "dbSymbol": "anemonache",
+      "form": 0
+    },
+    {
+      "dbSymbol": "krabombom",
+      "form": 0
+    },
+    {
+      "dbSymbol": "ocellgilo",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hadrok",
+      "form": 0
+    },
+    {
+      "dbSymbol": "tethron",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bouldroar",
+      "form": 0
+    },
+    {
+      "dbSymbol": "plesil",
+      "form": 0
+    },
+    {
+      "dbSymbol": "aquiosa",
+      "form": 0
+    },
+    {
+      "dbSymbol": "rhaetidal",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pescetric",
+      "form": 0
+    },
+    {
+      "dbSymbol": "turturion",
+      "form": 0
+    },
+    {
+      "dbSymbol": "furnally",
+      "form": 0
+    },
+    {
+      "dbSymbol": "muscoumo",
+      "form": 0
+    },
+    {
+      "dbSymbol": "eruptite",
+      "form": 0
+    },
+    {
+      "dbSymbol": "tephrupt",
+      "form": 0
+    },
+    {
+      "dbSymbol": "vulcuvius",
+      "form": 0
+    },
+    {
+      "dbSymbol": "profogni",
+      "form": 0
+    },
+    {
+      "dbSymbol": "philonion",
+      "form": 0
+    },
+    {
+      "dbSymbol": "ribbidregs",
+      "form": 0
+    },
+    {
+      "dbSymbol": "sprogrub",
+      "form": 0
+    },
+    {
+      "dbSymbol": "puparmor",
+      "form": 0
+    },
+    {
+      "dbSymbol": "wyrmorf",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hushup",
+      "form": 0
+    },
+    {
+      "dbSymbol": "quietaek",
+      "form": 0
+    },
+    {
+      "dbSymbol": "phophasaur",
+      "form": 0
+    },
+    {
+      "dbSymbol": "charkodile",
+      "form": 0
+    },
+    {
+      "dbSymbol": "duratoise",
+      "form": 0
+    },
+    {
+      "dbSymbol": "adnokana",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hokuspokus",
+      "form": 0
+    },
+    {
+      "dbSymbol": "larvaeon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "putreon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "malleon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "cacopheon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "porygon3",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hitmondach",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hitmoncrag",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hitmonwark",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hitmonkloak",
+      "form": 0
+    },
+    {
+      "dbSymbol": "leorocci",
+      "form": 0
+    },
+    {
+      "dbSymbol": "sinishawk",
+      "form": 0
+    },
+    {
+      "dbSymbol": "siphox",
+      "form": 0
+    },
+    {
+      "dbSymbol": "saltantrum",
+      "form": 0
+    },
+    {
+      "dbSymbol": "aurorotitan",
+      "form": 0
+    },
+    {
+      "dbSymbol": "mammufioso",
+      "form": 0
+    },
+    {
+      "dbSymbol": "druttox",
+      "form": 0
+    },
+    {
+      "dbSymbol": "drigettox",
+      "form": 0
+    },
+    {
+      "dbSymbol": "dragurtox",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pestuzzi",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pestocca",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pescadina",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bumbino",
+      "form": 0
+    },
+    {
+      "dbSymbol": "balleteen",
+      "form": 0
+    },
+    {
+      "dbSymbol": "crescudult",
+      "form": 0
+    },
+    {
+      "dbSymbol": "rosalamus",
+      "form": 0
+    },
+    {
+      "dbSymbol": "irimemus",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lupirimus",
+      "form": 0
+    },
+    {
+      "dbSymbol": "ghiacrena",
+      "form": 0
+    },
+    {
+      "dbSymbol": "miticalcio",
+      "form": 0
+    },
+    {
+      "dbSymbol": "orthruff",
+      "form": 0
+    },
+    {
+      "dbSymbol": "cerbehowl",
+      "form": 0
+    },
+    {
+      "dbSymbol": "mythical_tbd_1",
+      "form": 0
+    },
+    {
+      "dbSymbol": "mythical_tbd_2",
+      "form": 0
+    },
+    {
+      "dbSymbol": "mythical_tbd_3",
+      "form": 0
     }
   ]
 }
