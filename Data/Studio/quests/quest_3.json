@@ -1,0 +1,19 @@
+{
+  "klass": "Quest",
+  "id": 3,
+  "dbSymbol": "quest_3",
+  "isPrimary": true,
+  "resolution": "default",
+  "objectives": [
+    {
+      "objectiveMethodName": "objective_see_pokemon",
+      "objectiveMethodArgs": [
+        "ursaring",
+        1
+      ],
+      "textFormatMethodName": "text_see_pokemon",
+      "hiddenByDefault": false
+    }
+  ],
+  "earnings": []
+}
