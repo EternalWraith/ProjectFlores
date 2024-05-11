@@ -3,6 +3,7 @@
 module Yuki
   module Var
     # Sets variable 495 to a gender variable (0 = female, 1 = male, 2 = nb)
+    Rolls = 470
     GenderVar = 495
   end
 end

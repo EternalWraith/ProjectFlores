@@ -11,5 +11,10 @@
     }
   ],
   "southMaps": [],
-  "westMaps": []
+  "westMaps": [
+    {
+      "mapId": 23,
+      "offset": 0
+    }
+  ]
 }
