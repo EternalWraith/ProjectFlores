@@ -1,6 +1,6 @@
 UI::PSDKMenuButton::TEXT_MESSAGES << [:String, 'Toggle Follower']
 GamePlay::Menu::ACTION_LIST << :open_new_option
-module NewMenuAction
+module ToggleFollower
   def init_conditions
     super << [true] # New option always visible
   end
@@ -8,4 +8,4 @@ module NewMenuAction
     $game_switches[Yuki::Sw::FM_Enabled] = (!$game_switches[Yuki::Sw::FM_Enabled])
   end
 end
-GamePlay::Menu.prepend(NewMenuAction)
+GamePlay::Menu.prepend(ToggleFollower)

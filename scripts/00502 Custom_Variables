@@ -1,6 +1,0 @@
-
-module Yuki
-    module Var
-      Rolls = 470
-    end
-end

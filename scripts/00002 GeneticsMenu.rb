@@ -1,6 +1,6 @@
 UI::PSDKMenuButton::TEXT_MESSAGES << [:String, 'Genetics']
 GamePlay::Menu::ACTION_LIST << :open_new_option
-module NewMenuAction
+module GeneticsMenu
   def init_conditions
     super << [true] # New option always visible
   end
@@ -9,4 +9,4 @@ module NewMenuAction
     log_info('choosed new option')
   end
 end
-GamePlay::Menu.prepend(NewMenuAction)
+GamePlay::Menu.prepend(GeneticsMenu)
