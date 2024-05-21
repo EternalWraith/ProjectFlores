@@ -17,6 +17,6 @@ class Interpreter < Interpreter_RMXP
   def cry_pokemon(id, prefix: "", suffix: "", volume: 100, tempo: 100)
         creature = data_creature(id)
         raise "Database Error : The Pokémon \##{id} doesn't exists." if creature.db_symbol == :__undef__
-        Audio.se_play("Audio/SE/Cries/#{prefix}#{format('%04d', id)}#{suffix}Cry", volume, tempo)
+        Audio.se_play("Audio/SE/Cries/#{prefix}#{format('%04d', creature.id)}#{suffix}Cry", volume, tempo)
   end
 end

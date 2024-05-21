@@ -19,6 +19,18 @@ module UI
                 fix_level_text_position
                 @isapex = pokemon.apex?
                 @isshiny = pokemon.shiny?
+                log_info("#{@isapex ? "Is" : "Not"} Apex; #{@isshiny ? "Is" : "Not"} Shiny; Hue: #{pokemon.hue}")
+
+                @apexline.text = "Yes" if @isapex
+                @apexline.load_color(1) if @isapex
+                @apexline.text = "No" if !@isapex
+                @apexline.load_color(2) if !@isapex
+
+                @shinyline.text = "Yes" if @isshiny
+                @shinyline.load_color(1) if @isshiny
+                @shinyline.text = "No" if !@isshiny
+                @shinyline.load_color(2) if !@isshiny
+
                 load_text_info(pokemon)
             end
         end
@@ -32,23 +44,18 @@ module UI
             with_surface(114, 19, 95) do
                 add_line(0, "Genetic Information")
                 no_egg add_line(1, "Shiny?")
-                if @isshiny then
-                    @shinyline = no_egg add_line(1, "Yes", 1)
-                    @shinyline.load_color(1)
-                else
-                    @shinyline = no_egg add_line(1, "No", 1)
-                    @shinyline.load_color(2)
-                end
+                @shinyline = no_egg add_line(1, "n/a", 1)
+                @shinyline.load_color(1)
 
                 no_egg add_line(1, "Apex?", dx: 1)
-                if @isapex then
-                    @apexline = no_egg add_line(1, "Yes", 1, dx: 1)
-                    @apexline.load_color(1)
-                else
-                    @apexline = no_egg add_line(1, "No", 1, dx: 1)
-                    @apexline.load_color(2)
-                end
-                    
+                @apexline = no_egg add_line(1, "n/a", 1, dx: 1)
+                @apexline.load_color(1)
+
+                no_egg add_line(2, "Evolutionary Gene:")
+                no_egg add_line(2, "n/a", 1, dx: 1)
+
+                no_egg add_line(3, "Variant Gene:")
+                no_egg add_line(3, "n/a", 1, dx: 1)
                 #@level_text = no_egg(add_line(1, "thingy", dx: 1))
                 #@id = no_egg add_line(1, :id_text, 2, type: SymText, color: 1)
                 #@level_value = no_egg(add_line(1, :level_text, 2, type: SymText, color: 1, dx: 1))

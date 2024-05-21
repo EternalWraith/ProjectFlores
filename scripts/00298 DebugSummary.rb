@@ -31,7 +31,7 @@ module UI
             pokemon.skills_set.compact!
             @skills.each_with_index do |skill_stack, index|
               skill_stack.data = pokemon.skills_set[index]
-              log_info("#{skill_stack.data.type}")
+              #log_info("#{skill_stack.data.type}")
             end
         end
     end

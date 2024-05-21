@@ -1,19 +1,38 @@
 module PFM
     class Pokemon 
+
+        attr_accessor :apex
+
+        attr_accessor :hue
         # List of pokemon with Apex forms, and what their form number is
         # format = :db_symbol => [from, to]
-        APEXES = {:teddiursa => [0, 1], :ursaring => [0, 1]}
+        APEXES = {
+            #:db_symbol => [base form, apex form]
+            :teddiursa => [0, 1],
+             :ursaring => [0, 1]
+        }
+
+        # List of pokemon with Variant appearances
+        # format = :db_symbol => list of forms with variants
+        VARIANTS = {
+            :graveler => {1 => [-30, 15]},
+            :tyranitar => {0 => [-45, 65]},
+            :pidove => {0 => [-35, 160]}
+        }
 
         def initialize(id, level, force_shiny = false, no_shiny = false, form = -1, opts = {})
             primary_data_initialize(id, level, force_shiny, no_shiny)
             self.apex = opts[:apex]
-            #genetic_data_initialize(opts)
+            self.hue = opts[:hue]
             catch_data_initialize(opts)
             form_data_initialize(form)
             stat_data_initialize(opts)
             moves_initialize(opts)
             item_holding_initialize(opts)
             ability_initialize(opts)
+            if !opts[:hue] then
+                self.hue = randomhue
+            end
         end
 
         def primary_data_initialize(id, level, force_shiny, no_shiny)
@@ -40,18 +59,13 @@ module PFM
             @mega_evolved = false
         end
 
-        def genetic_data_initialize(opts)
-            log_info(opts)
-            @genetics = {"apex" => opts[:apex] || false}
-        end
-
         def form_data_initialize(form)
             form = form_generation(form)
             form = 0 if data_creature(db_symbol).forms.none? { |creature_form| creature_form.form == form }
             if apex? then
                 if APEXES.include?@db_symbol then # Does it have an Apex?
                     log_info("#{@db_symbol} does have an Apex")
-                    if APEXES.any?{ |i, v| v[0] == form } then # Is it the right form?
+                    if APEXES[@db_symbol][0] == form then # Is it the right form?
                         log_info("#{form} is the correct form")
                         form = APEXES[@db_symbol][1]
                     end
@@ -70,7 +84,8 @@ module PFM
                 @acode = rand(0xFFFF_FFFF)
                 break if apex
             end
-            log_info("Shiny? #{shiny}; Apex? #{apex}")
+
+            log_info("Shiny? #{shiny}; Apex? #{apex}; Hue? #{hue}")
         end
 
         def apex_attempts
@@ -110,6 +125,44 @@ module PFM
         # @param shiny [Boolean]
         def apex=(apex)
             @acode = (@acode & 0xFFFF0000) | (apex ? 0 : 0xFFFF)
+        end
+
+        def hue
+            return @color
+        end
+
+        def hue=(hue)
+            @color = hue
+        end
+
+        def randomhue
+            if VARIANTS.include?db_symbol then
+                if VARIANTS[@db_symbol].include?form then
+                    mn = VARIANTS[@db_symbol][form][0]
+                    mx = VARIANTS[@db_symbol][form][1]
+                    log_info("Random colour between #{mn} and #{mx} generated")
+                    return rand(mn..mx)
+                end
+            end
+            return 0
+        end
+
+        def battler_mask
+            if VARIANTS.include?db_symbol then
+                if VARIANTS[@db_symbol].include?form then
+                    return RPG::Cache.poke_front(PFM::Pokemon.front_filename(id, form, female?, 0, egg?) + "_mask")
+                end
+            end
+            return RPG::Cache.poke_front(PFM::Pokemon.front_filename(0, 0, female?, 0, egg?) + "_mask") if !VARIANTS.include?(db_symbol)
+        end
+
+        def battler_back_mask
+            if VARIANTS.include?db_symbol then
+                if VARIANTS[@db_symbol].include?form then
+                    return RPG::Cache.poke_back(PFM::Pokemon.front_filename(id, form, female?, 0, egg?) + "_mask")
+                end
+            end
+            return RPG::Cache.poke_back(PFM::Pokemon.front_filename(0, 0, female?, 0, egg?) + "_mask") if !VARIANTS.include?(db_symbol)
         end
     end
 end

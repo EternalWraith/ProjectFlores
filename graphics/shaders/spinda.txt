@@ -1,0 +1,86 @@
+const float scalar = 1.0/96.0;
+
+const vec4 sknColor = vec4(0.902,0.835,0.643, 1.0);
+const vec4 sknShade = vec4(0.804,0.643,0.451, 1.0);
+
+const vec4 redColor = vec4(0.933,0.322,0.29, 1.0);
+const vec4 redShade = vec4(0.741,0.29,0.192, 1.0);
+
+const vec4 grnColor = vec4(0.643,0.804,0.063, 1.0);
+const vec4 grnShade = vec4(0.482,0.612,0.0, 1.0);
+
+uniform vec4 color;
+uniform sampler2D pkmn;
+uniform bool shiny;
+
+uniform vec2 Part1; // = vec2(0xF, 7);
+const vec2 rightEye = scalar * vec2(38.0, 24.0 + 33.0);
+const vec2 rEyeSize = vec2(scalar*4.5);
+
+uniform vec2 Part2; // = vec2(0x4, 0xA);
+const vec2 leftEye = scalar * vec2(26.0, 24.0 + 33.0);
+const vec2 lEyeSize = vec2(scalar*3.5, scalar*4.5);
+
+uniform vec2 Part3; // = vec2(8, 0xA);
+const vec2 rightEar = scalar * vec2(47.0, 24.0 + 17.0);
+const vec2 rEarSize = vec2(scalar*4.0);
+
+uniform vec2 Part4; // = vec2(0xC, 8);
+const vec2 leftEar = scalar * vec2(23.0, 24.0 + 15.0);
+const vec2 lEarSize = vec2(scalar*4.0);
+
+float sqr(float i) {
+  return i*i;
+}
+
+bool insideEllipse(vec2 origin, vec2 radius,  vec2 point) {
+  float h = origin.x; // Origin of Ellipse X
+  float k = origin.y; // Origin of Ellipse Y
+  
+  // X Component of Ellipse, (x - h)^2 / r[x]^2
+  float xc = sqr(point.x - h) / sqr(radius.x);
+  // Y Component of Ellipse, (y - k)^2 / r[y]^2
+  float yc = sqr(point.y - k) / sqr(radius.y);
+  
+  return xc + yc <= 1.0;
+}
+
+void main() {
+  vec2 eyeRight = rightEye + (scalar * Part1);
+  vec2 eyeLeft = leftEye + (scalar * Part2);
+  vec2 earRight = rightEar + (scalar * Part3);
+  vec2 earLeft = leftEar + (scalar * Part4);
+  
+  float pixelX = floor(gl_TexCoord[0].x * 96.0) / 96.0;
+  float pixelY = floor(gl_TexCoord[0].y * 96.0) / 96.0;
+  
+  vec2 pixPos = vec2(pixelX + (scalar/2.0), pixelY + (scalar/2.0));
+
+  vec4 col = texture2D(pkmn, pixPos);
+  vec4 pix = col;
+  
+  if (
+    insideEllipse(eyeRight + rEyeSize, rEyeSize, pixPos) ||
+    insideEllipse(eyeLeft + lEyeSize, lEyeSize, pixPos) ||
+    insideEllipse(earRight + rEarSize, rEarSize, pixPos) ||
+    insideEllipse(earLeft + lEarSize, lEarSize, pixPos)
+     ) {
+      
+    if (col.a == 1.0) {
+      if (length(col - sknColor) < 0.01) {
+        pix = shiny ? grnColor : redColor;
+      }
+      else if (length(col - sknShade) < 0.01)
+      {
+        pix = shiny ? grnShade : redShade;
+      }
+    }
+  }
+  else 
+  {
+    pix = col;
+  }
+
+  pix.rgb = mix(pix.rgb, color.rgb, color.a);
+  gl_FragColor = vec4(pix);
+}

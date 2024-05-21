@@ -2,6 +2,23 @@
   "klass": "Group",
   "id": 26,
   "dbSymbol": "group_26",
+  "systemTag": "Grass",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 22,
+      "relationWithPreviousCondition": "AND"
+    },
+    {
+      "type": "mapId",
+      "value": 23,
+      "relationWithPreviousCondition": "OR"
+    }
+  ],
   "encounters": [
     {
       "specie": "rattata",
@@ -17,7 +34,7 @@
           "maximumLevel": 4
         }
       },
-      "randomEncounterChance": 40,
+      "randomEncounterChance": 30,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -59,7 +76,7 @@
           "maximumLevel": 4
         }
       },
-      "randomEncounterChance": 5,
+      "randomEncounterChance": 9,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -101,7 +118,7 @@
           "maximumLevel": 4
         }
       },
-      "randomEncounterChance": 54,
+      "randomEncounterChance": 60,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -133,8 +150,8 @@
       "specie": "ursaring",
       "form": 1,
       "shinySetup": {
-        "kind": "rate",
-        "rate": 0.2
+        "kind": "automatic",
+        "rate": -1
       },
       "levelSetup": {
         "kind": "minmax",
@@ -172,22 +189,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Grass",
-  "terrainTag": 0,
-  "customConditions": [
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 22
-    },
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "OR",
-      "value": 23
-    }
-  ],
-  "tool": null,
-  "isHordeBattle": false,
   "stepsAverage": 30
 }

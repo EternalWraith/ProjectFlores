@@ -11,8 +11,8 @@ module BattleUI
         # Get the base position of the Pokemon in 1v1
         # @return [Array(Integer, Integer)]
         def base_position_v1
-            return 242, 138 if enemy?
-            return 78, 224
+            return 248, 114 if enemy?
+            return 86, 196
         end
     end
 end

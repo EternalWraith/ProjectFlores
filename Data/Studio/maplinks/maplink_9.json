@@ -4,12 +4,7 @@
   "dbSymbol": "maplink_9",
   "mapId": 22,
   "northMaps": [],
-  "eastMaps": [
-    {
-      "mapId": 19,
-      "offset": 0
-    }
-  ],
+  "eastMaps": [],
   "southMaps": [],
   "westMaps": [
     {
